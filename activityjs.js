@@ -13,3 +13,4 @@ console.log(relationship("nagmahal"));
 console.log(relationship("pinili"));
 
 
+console.log((4 % 6));
